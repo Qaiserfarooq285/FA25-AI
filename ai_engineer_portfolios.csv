@@ -1,0 +1,31 @@
+Name,Location,YearsExperience,EducationLevel,Specialization,Skills,Salary,ExperienceLevel
+Alice Johnson,San Francisco,5,Masters,NLP,"Python,TensorFlow,NLP,Transformers,Hugging Face,SQL",145000,Mid
+Bob Smith,New York,8,PhD,Computer Vision,"Python,PyTorch,OpenCV,CUDA,Docker,Kubernetes",165000,Senior
+Carol White,Austin,2,Bachelors,Machine Learning,"Python,scikit-learn,Pandas,NumPy,SQL,Tableau",95000,Junior
+David Lee,Seattle,10,Masters,Reinforcement Learning,"Python,PyTorch,TensorFlow,OpenAI Gym,C++",185000,Senior
+Emma Davis,Chicago,3,Masters,NLP,"Python,TensorFlow,BERT,FastAPI,Docker,PostgreSQL",110000,Mid
+Frank Brown,Los Angeles,1,Bachelors,Data Science,"Python,scikit-learn,Pandas,Matplotlib,SQL",80000,Junior
+Grace Kim,Boston,7,PhD,Computer Vision,"Python,PyTorch,OpenCV,TensorRT,Kubernetes,GCP",160000,Senior
+Henry Wilson,Denver,4,Masters,MLOps,"Python,Docker,Kubernetes,MLflow,Airflow,AWS",130000,Mid
+Isabella Moore,Miami,6,Masters,Generative AI,"Python,PyTorch,Stable Diffusion,Hugging Face,FastAPI",150000,Senior
+James Taylor,Portland,2,Bachelors,Machine Learning,"Python,scikit-learn,XGBoost,SQL,Pandas",90000,Junior
+Karen Anderson,San Jose,9,PhD,NLP,"Python,TensorFlow,GPT,BERT,Spark,Azure",175000,Senior
+Liam Thomas,Austin,3,Masters,Computer Vision,"Python,PyTorch,YOLO,OpenCV,Docker",115000,Mid
+Maria Garcia,New York,5,Masters,Generative AI,"Python,PyTorch,Stable Diffusion,LangChain,FastAPI,AWS",142000,Mid
+Nathan Harris,Seattle,1,Bachelors,Data Science,"Python,Pandas,NumPy,Matplotlib,SQL",78000,Junior
+Olivia Martin,San Francisco,7,Masters,MLOps,"Python,Kubernetes,Terraform,MLflow,GCP,CI/CD",158000,Senior
+Paul Jackson,Chicago,4,Bachelors,Machine Learning,"Python,scikit-learn,LightGBM,SQL,Tableau,AWS",122000,Mid
+Quinn White,Boston,11,PhD,Reinforcement Learning,"Python,PyTorch,TensorFlow,MuJoCo,C++,CUDA",190000,Senior
+Rachel Lewis,Denver,2,Masters,NLP,"Python,Hugging Face,FastAPI,Docker,PostgreSQL",98000,Junior
+Samuel Robinson,Los Angeles,6,Masters,Computer Vision,"Python,PyTorch,OpenCV,TensorFlow,GCP",148000,Senior
+Tina Walker,Miami,3,Bachelors,Data Science,"Python,Pandas,SQL,scikit-learn,Tableau",105000,Mid
+Uma Hall,Portland,8,PhD,Generative AI,"Python,PyTorch,LangChain,GPT-4,FastAPI,Azure",172000,Senior
+Victor Young,San Jose,1,Bachelors,Machine Learning,"Python,scikit-learn,Pandas,SQL",75000,Junior
+Wendy Allen,Austin,5,Masters,MLOps,"Python,Docker,Kubernetes,Jenkins,MLflow,AWS",138000,Mid
+Xander Scott,Seattle,4,Masters,NLP,"Python,TensorFlow,BERT,SpaCy,FastAPI",125000,Mid
+Yara Green,New York,9,PhD,Computer Vision,"Python,PyTorch,CUDA,TensorRT,Docker,GCP",178000,Senior
+Zach Baker,Chicago,2,Bachelors,Data Science,"Python,Pandas,Matplotlib,SQL,Excel",88000,Junior
+Amy Carter,San Francisco,6,Masters,Generative AI,"Python,PyTorch,LangChain,Hugging Face,FastAPI,GCP",155000,Senior
+Brian Perez,Boston,3,Masters,MLOps,"Python,Airflow,Docker,AWS,Terraform",112000,Mid
+Chloe Evans,Denver,7,PhD,NLP,"Python,TensorFlow,GPT,BERT,SpaCy,Azure",163000,Senior
+Derek Collins,Los Angeles,1,Bachelors,Machine Learning,"Python,scikit-learn,NumPy,SQL",77000,Junior
